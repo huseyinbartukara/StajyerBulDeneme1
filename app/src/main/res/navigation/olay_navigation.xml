@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/olay_navigation"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/kullaniciProfileFragment"
+        android:name="com.example.stajyerbuldeneme1.ui.fragments.KullaniciProfileFragment"
+        android:label="fragment_kullanici_profile"
+        tools:layout="@layout/fragment_kullanici_profile" >
+
+        <action
+            android:id="@+id/stajyerProfileDuzenleGecis"
+            app:destination="@id/stajyerProfileDuzenleFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.example.stajyerbuldeneme1.ui.fragments.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" >
+        <action
+            android:id="@+id/stajIlanGecis"
+            app:destination="@id/stajilanDetayFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/stajilanDetayFragment"
+        android:name="com.example.stajyerbuldeneme1.ui.fragments.StajilanDetayFragment"
+        android:label="fragment_stajilan_detay"
+        tools:layout="@layout/fragment_stajilan_detay" >
+        <argument
+            android:name="ilanStaj"
+            app:argType="com.example.stajyerbuldeneme1.ui.model.StajIlan" />
+        <action
+            android:id="@+id/mainFragmentGecis"
+            app:destination="@id/mainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/stajyerProfileDuzenleFragment"
+        android:name="com.example.stajyerbuldeneme1.ui.fragments.StajyerProfileDuzenleFragment"
+        android:label="fragment_stajyer_profile_duzenle"
+        tools:layout="@layout/fragment_stajyer_profile_duzenle" >
+        <action
+            android:id="@+id/kullaniciProfileFragmentGecis"
+            app:destination="@id/kullaniciProfileFragment" />
+    </fragment>
+
+
+</navigation>

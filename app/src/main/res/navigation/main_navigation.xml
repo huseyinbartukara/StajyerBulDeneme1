@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/girisYapFragment"
+        android:name="com.example.stajyerbuldeneme1.ui.fragments.GirisYapFragment"
+        android:label="fragment_giris_yap"
+        tools:layout="@layout/fragment_giris_yap" >
+        <action
+            android:id="@+id/kayitOlFragmentGecis"
+            app:destination="@id/kayitOlFragment" />
+        <action
+            android:id="@+id/kayitOlSirketFragmentGecis"
+            app:destination="@id/kayitOlSirketFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/kayitOlFragment"
+        android:name="com.example.stajyerbuldeneme1.ui.fragments.KayitOlFragment"
+        android:label="fragment_kayit_ol"
+        tools:layout="@layout/fragment_kayit_ol" >
+        <action
+            android:id="@+id/girisYapFragmentGecis"
+            app:destination="@id/girisYapFragment" />
+        <action
+            android:id="@+id/cvEkleFragmentGecis"
+            app:destination="@id/cvEkleFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/kayitOlSirketFragment"
+        android:name="com.example.stajyerbuldeneme1.ui.fragments.KayitOlSirketFragment"
+        android:label="fragment_kayit_ol_sirket"
+        tools:layout="@layout/fragment_kayit_ol_sirket" >
+        <action
+            android:id="@+id/girisYapFragmentGecisSirket"
+            app:destination="@id/girisYapFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.example.stajyerbuldeneme1.ui.fragments.SplashFragment"
+        android:label="fragment_splash"
+        tools:layout="@layout/fragment_splash" >
+        <action
+            android:id="@+id/splashScreenGecis"
+            app:destination="@id/girisYapFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/cvEkleFragment"
+        android:name="com.example.stajyerbuldeneme1.ui.fragments.CvEkleFragment"
+        android:label="fragment_cv_ekle"
+        tools:layout="@layout/fragment_cv_ekle" />
+</navigation>

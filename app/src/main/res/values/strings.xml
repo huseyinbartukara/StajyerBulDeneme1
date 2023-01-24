@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StajyerBulDeneme1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="underlinekaydol"> <u>Kaydol</u></string>
+    <string name="underlinegirisyap"> <u>Giris Yap</u></string>
+    <string-array name="teknokentName">
+        <item>Denizli Pau Teknokent</item>
+        <item>Isparta Sdu Teknokent</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/mainFragment"
+        android:title="Home"
+        android:icon="@drawable/ic_home_metro"/>
+
+
+    <item android:id="@+id/kullaniciProfileFragment"
+        android:title="Profile"
+        android:icon="@drawable/icon_acount_box"/>
+
+</menu>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/drawable-v24/backgroundBottomNav.xml" value="0.1395" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/drawable/background1.xml" value="0.1265" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/drawable/background2.xml" value="0.1395" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/drawable/bottom_nav_background.xml" value="0.1395" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/drawable/button_background1.xml" value="0.1265" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/drawable/text_background1.xml" value="0.1395" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/filter_alertview_tasarim.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/filter_alertview_tasarim_large.xml" value="0.11551155115511551" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_cv_goster.xml" value="0.11551155115511551" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_giris_yap.xml" value="0.25" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_ilan_verme.xml" value="0.25" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_ilan_verme_large.xml" value="0.176" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_kayit_ol.xml" value="0.25" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_kayit_ol_large.xml" value="0.136" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_kayit_ol_sirket.xml" value="0.25" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_kayit_ol_sirket_large.xml" value="0.10400000000000001" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_kullanici_profile.xml" value="0.21100244498777507" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_kullanici_profile_large.xml" value="0.11551155115511551" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_main.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_main_large.xml" value="0.11551155115511551" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_main_sirket.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_main_sirket_large.xml" value="0.11551155115511551" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_sirket_profile.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_sirket_profile_duzenle.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_sirket_profile_duzenle_large.xml" value="0.128" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_sirket_profile_large.xml" value="0.11551155115511551" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_splash.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_splash_large.xml" value="0.11551155115511551" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_stajilan_detay.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_stajilan_detay_large.xml" value="0.11551155115511551" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_stajilan_detay_sirket.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_stajilan_detay_sirket_large.xml" value="0.11551155115511551" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_stajyer_profile_duzenle.xml" value="0.33" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/fragment_stajyer_profile_duzenle_large.xml" value="0.11551155115511551" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/sirket_staj_ilan_row.xml" value="0.17863036303630364" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-large/sirket_staj_ilan_row_large.xml" value="0.11551155115511551" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/filter_alertview_tasarim.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/filter_alertview_tasarim_normal.xml" value="0.25" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_giris_yap.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_giris_yap_normal.xml" value="0.2" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_ilan_verme.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_ilan_verme_normal.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_kayit_ol.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_kayit_ol_normal.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_kayit_ol_sirket.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_kayit_ol_sirket_normal.xml" value="0.2" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_kullanici_profile.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_kullanici_profile_normal.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_main.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_main_normal.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_main_sirket.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_main_sirket_normal.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_sirket_profile.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_sirket_profile_duzenle.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_sirket_profile_duzenle_normal.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_sirket_profile_normal.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_splash.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_splash_normal.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_stajilan_detay.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_stajilan_detay_normal.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_stajilan_detay_sirket.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_stajilan_detay_sirket_normal.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_stajyer_profile_duzenle.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/fragment_stajyer_profile_duzenle_normal.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/sirket_staj_ilan_row.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-normal/sirket_staj_ilan_row_normal.xml" value="0.16216216216216217" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-small/filter_alertview_tasarim.xml" value="0.9058577405857741" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-small/filter_alertview_tasarim_small.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-small/fragment_giris_yap.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-small/fragment_giris_yap_small.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-small/fragment_ilan_verme.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-small/fragment_kayit_ol.xml" value="0.33" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-small/fragment_kayit_ol_sirket.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-small/fragment_kullanici_profile.xml" value="0.9058577405857741" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-small/fragment_main.xml" value="0.9058577405857741" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-small/fragment_main_sirket.xml" value="0.9058577405857741" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-small/fragment_sirket_profile.xml" value="0.23513513513513515" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-small/fragment_sirket_profile_duzenle.xml" value="0.9058577405857741" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-small/fragment_splash.xml" value="0.9058577405857741" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-small/fragment_stajilan_detay.xml" value="0.9058577405857741" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-small/fragment_stajilan_detay_sirket.xml" value="0.9058577405857741" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-small/fragment_stajyer_profile_duzenle.xml" value="0.9058577405857741" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-small/sirket_staj_ilan_row.xml" value="0.9058577405857741" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-xlarge/filter_alertview_tasarim.xml" value="0.17863036303630364" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-xlarge/fragment_giris_yap.xml" value="0.12" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-xlarge/fragment_ilan_verme.xml" value="0.14" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-xlarge/fragment_kayit_ol.xml" value="0.14" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-xlarge/fragment_kayit_ol_sirket.xml" value="0.16" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-xlarge/fragment_kullanici_profile.xml" value="0.17801155115511552" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-xlarge/fragment_main.xml" value="0.17863036303630364" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-xlarge/fragment_main_sirket.xml" value="0.17863036303630364" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-xlarge/fragment_sirket_profile.xml" value="0.17863036303630364" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-xlarge/fragment_sirket_profile_duzenle.xml" value="0.17863036303630364" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-xlarge/fragment_splash.xml" value="0.17863036303630364" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-xlarge/fragment_stajilan_detay.xml" value="0.17863036303630364" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-xlarge/fragment_stajilan_detay_sirket.xml" value="0.17863036303630364" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-xlarge/fragment_stajyer_profile_duzenle.xml" value="0.17863036303630364" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout-xlarge/sirket_staj_ilan_row.xml" value="0.17863036303630364" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/activity_cv.xml" value="0.2359375" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/activity_main.xml" value="0.22146739130434784" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/activity_olay.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/activity_sirket_olay.xml" value="0.25" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/filter_alertview_tasarim.xml" value="0.25" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/fragment_cv_ekle.xml" value="0.25" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/fragment_cv_goster.xml" value="0.25" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/fragment_giris_yap.xml" value="0.2" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/fragment_ilan_verme.xml" value="0.25" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/fragment_kayit_ol.xml" value="0.264" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/fragment_kayit_ol_sirket.xml" value="0.22146739130434784" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/fragment_kullanici_profile.xml" value="0.2" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/fragment_main.xml" value="0.25" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/fragment_main_sirket.xml" value="0.25" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/fragment_sirket_profile.xml" value="0.25" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/fragment_sirket_profile_duzenle.xml" value="0.25" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/fragment_splash.xml" value="0.22146739130434784" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/fragment_stajilan_detay.xml" value="0.25" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/fragment_stajilan_detay_sirket.xml" value="0.25" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/fragment_stajilan_detay_sirket2.xml" value="0.25" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/fragment_stajyer_profile_duzenle.xml" value="0.1" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/layout/sirket_staj_ilan_row.xml" value="0.25" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/menu/bottom_nav_menu_sirket.xml" value="0.264" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/menu/main_fragment_toolbar.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/bartu/AndroidStudioProjects/StajyerBulDeneme1/app/src/main/res/menu/main_toolbar_item.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

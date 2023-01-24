@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/sirket_olay_navigaiton"
+    app:startDestination="@id/ilanVermeFragment">
+
+    <fragment
+        android:id="@+id/ilanVermeFragment"
+        android:name="com.example.stajyerbuldeneme1.ui.fragments.IlanVermeFragment"
+        android:label="fragment_ilan_verme"
+        tools:layout="@layout/fragment_ilan_verme" >
+        <action
+            android:id="@+id/mainSirketFragmentGecis"
+            app:destination="@id/mainSirketFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/sirketProfileFragment2"
+        android:name="com.example.stajyerbuldeneme1.ui.fragments.SirketProfileFragment"
+        android:label="fragment_sirket_profile"
+        tools:layout="@layout/fragment_sirket_profile" >
+        <action
+            android:id="@+id/SirketProfileDuzenleGecis"
+            app:destination="@id/sirketProfileDuzenleFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/mainSirketFragment"
+        android:name="com.example.stajyerbuldeneme1.ui.fragments.MainSirketFragment"
+        android:label="fragment_main_sirket"
+        tools:layout="@layout/fragment_main_sirket" >
+        <action
+            android:id="@+id/stajilanDetayFragmentGecis"
+            app:destination="@id/stajilanDetaySirketFragment2" />
+    </fragment>
+    <fragment
+        android:id="@+id/stajilanDetaySirketFragment2"
+        android:name="com.example.stajyerbuldeneme1.ui.fragments.StajilanDetaySirketFragment"
+        android:label="fragment_stajilan_detay_sirket"
+        tools:layout="@layout/fragment_stajilan_detay_sirket" >
+        <argument
+            android:name="ilanSirket"
+            app:argType="com.example.stajyerbuldeneme1.ui.model.StajIlan" />
+        <action
+            android:id="@+id/mainFragmentGecis2"
+            app:destination="@id/mainSirketFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/sirketProfileDuzenleFragment"
+        android:name="com.example.stajyerbuldeneme1.ui.fragments.SirketProfileDuzenleFragment"
+        android:label="fragment_sirket_profile_duzenle"
+        tools:layout="@layout/fragment_sirket_profile_duzenle" >
+        <action
+            android:id="@+id/sirketProfileGecis"
+            app:destination="@id/sirketProfileFragment2" />
+    </fragment>
+</navigation>

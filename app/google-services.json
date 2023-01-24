@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22697034812",
+    "project_id": "stajyerbul-dd65e",
+    "storage_bucket": "stajyerbul-dd65e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22697034812:android:fbd88530651b715120af39",
+        "android_client_info": {
+          "package_name": "com.example.stajyerbuldeneme1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22697034812-9mapuerq1ao7lvoic6qio2lviikibhbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8bIfI2HeLswKDEwUdPmMON-_ubNsRnYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22697034812-9mapuerq1ao7lvoic6qio2lviikibhbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

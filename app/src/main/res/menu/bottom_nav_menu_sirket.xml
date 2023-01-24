@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/mainSirketFragment"
+        android:title="Home"
+        android:icon="@drawable/ic_home_metro"/>
+
+    <item android:id="@+id/ilanVermeFragment"
+        android:title="İlan Ver"
+        android:icon="@drawable/ic_add_circle_big2"/>
+
+
+    <item android:id="@+id/sirketProfileFragment2"
+        android:title="Profile"
+        android:icon="@drawable/icon_acount_box"/>
+
+</menu>
