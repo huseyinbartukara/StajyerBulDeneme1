@@ -10,4 +10,5 @@ görebilir. Bu uygulamam da kullandığım teknolojiler aşağıda ki gibidir;
 2. Firebase
 3. Adobe XD
 4. Android Studio
+5. Navigation Component
 
